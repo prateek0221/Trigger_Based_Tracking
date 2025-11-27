@@ -1,0 +1,19 @@
+{
+    "assetdir": "/home/orange/assets/atn-bako-001",
+        "basePath": "/home/orange/assets/atn-bako-001",
+        "nasVideosPath": "/home/orange/mnt/Videos",
+        "nasPersonTrackingPath": "/home/orange/mnt/person_tracking",
+        "personTrackingVideosPath": "/home/orange/assets/atn-bako-001/person_tracking",
+        "productEventImgsPath": "/home/orange/assets/atn-bako-001/ProductEventHumanExtraction",
+        "tileVideosPath": "/data/store/assets/anhoody001/tilevideosnas",
+        "models":{
+            "yolov7cfg": "/home/orange/Production/RecommendationServices/models/yolov7_custom.cfg",
+            "yolov7Weights": "/home/orange/Production/RecommendationServices/models/yolov7_custom_last.weights",
+            "osNetModelPath": "/home/orange/Production/RecommendationServices/models/model.pth.tar-80",
+            "osNetModelName": "osnet_x1_0"
+        },
+        "blurringBlocks": 3,
+        "filterBlockSize_entry":1,
+        "filterBlockSize_exit":1
+        
+}
